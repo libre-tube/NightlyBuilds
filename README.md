@@ -1,4 +1,4 @@
-# Nightly builds - Libretube
+# Nightly builds of LibreTube
 
 <div align="center" style="width:100%; display:flex; justify-content:space-between;">
   
