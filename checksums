@@ -1,1 +1,5 @@
-5249f57492056de17d9fd86b7336f6f8deaabb168b0664c2eabec784d848d474  app-debug-signed.apk
+4cb72a9c4d9f42c5e08ca9d1467f1ee24085f74aa836f99ca71e5cd2af62e2db  app-arm64-v8a-debug-signed.apk
+0246a61faced3352daca6e85595b8f6bfc835a043578cf7488cf24be61c28d4f  app-x86-debug-signed.apk
+fdca728341b43297f71217eac0ac8452b7c92ab21210867aa31b5510d1d94bf0  app-x86_64-debug-signed.apk
+c183797c0336cb1e72dffd2ac5f9c17467c643e5e6ce9477dc4d9ef55bf90c49  app-universal-debug-signed.apk
+19a00c14972c6d2d2e7dcedbda9915c6a0f45c4aa623c0cde58711966e35930c  app-armeabi-v7a-debug-signed.apk
